@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Pizza Party App</string>
+    <string name="people">Number of people?</string>
+    <string name="hungry">How hungry?</string>
+    <string name="pizzas">Total pizzas: ?</string>
+    <string name="calc">Calculate</string>
+    <string name="light">Light</string>
+    <string name="medium">Medium</string>
+    <string name="ravv">Ravenous</string>
 </resources>

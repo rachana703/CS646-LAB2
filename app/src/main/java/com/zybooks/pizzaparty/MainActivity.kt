@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var numPizzasTextView: TextView
     private lateinit var howHungryRadioGroup: RadioGroup
     /*
-    * Initiation and mapping functions in XML
+    * Initiation and mapping callback functions in XML
     * */
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
